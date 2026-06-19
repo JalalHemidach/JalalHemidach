@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jalal Hemidach 👋
+Senior iOS Engineer with 10+ years of experience building enterprise-scale mobile applications.
+## Core Expertise
+- Swift
+- SwiftUI
+- UIKit
+- MVVM
+- Clean Architecture
+- Combine
+- Async/Await
+- CI/CD
+- Performance Optimization
+## Featured Projects
+- SwiftUI Fitness App Architecture
+- iOS Networking Layer with Combine
+- Mobile Clean Architecture Template
+
 
 <!--
 **JalalHemidach/JalalHemidach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
