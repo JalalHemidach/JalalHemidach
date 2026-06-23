@@ -3,7 +3,7 @@
 Senior iOS Engineer with 10+ years of experience designing, building, and modernizing enterprise-scale mobile applications.
 
 ## ⚙️ Core Expertise
-- Swift / SwiftUI / UIKit
+- Swift, SwiftUI, UIKit
 - Mobile Architecture
 - MVVM / Clean Architecture
 - Performance Optimization
