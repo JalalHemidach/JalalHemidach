@@ -11,7 +11,7 @@ Senior iOS Engineer with 10+ years of experience designing, building, and modern
 - Modernization of Legacy iOS Systems
 
 ## 🔒 About My Public Repositories
-Most enterprise applications I’ve contributed to professionally are proprietary and protected under NDAs, so they cannot be shared publicly.
+Most enterprise applications I’ve worked on professionally are proprietary and protected under NDAs, so they cannot be shared publicly.
 
 The repositories here showcase representative projects with sound architecture and production-quality implementations, reflecting my engineering approach and development practices.
 
