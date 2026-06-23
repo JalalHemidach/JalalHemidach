@@ -2,7 +2,7 @@
 
 Senior iOS Engineer with 10+ years of experience building and modernizing enterprise-scale mobile applications.
 
-## Core Expertise
+## ⚙️ Core Expertise
 - Swift & SwiftUI
 - Mobile Architecture
 - MVVM / Clean Architecture
@@ -10,12 +10,12 @@ Senior iOS Engineer with 10+ years of experience building and modernizing enterp
 - CI/CD & Release Management
 - Modernization of Legacy iOS Systems
 
-## About My Public Repositories
+## 🔒 About My Public Repositories
 Most enterprise applications I’ve contributed to professionally are proprietary and protected under NDAs, so they cannot be shared publicly.
 
 The repositories here showcase representative projects with sound architectural design and production-quality implementations, reflecting my engineering approach and development practices.
 
-## Featured Projects
+## ⭐ Featured Projects
 - iOS Fitness App Architecture
 - SwiftUI Firebase Auth MVVM
 - Clean Architecture Template
