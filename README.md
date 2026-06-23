@@ -1,6 +1,6 @@
 # Hi, I'm Jalal Hemidach 👋
 
-Senior iOS Engineer with 10+ years of experience building and modernizing enterprise-scale mobile applications.
+Senior iOS Engineer with 10+ years of experience designing, building, and modernizing enterprise-scale mobile applications.
 
 ## ⚙️ Core Expertise
 - Swift & SwiftUI
@@ -13,14 +13,14 @@ Senior iOS Engineer with 10+ years of experience building and modernizing enterp
 ## 🔒 About My Public Repositories
 Most enterprise applications I’ve contributed to professionally are proprietary and protected under NDAs, so they cannot be shared publicly.
 
-The repositories here showcase representative projects with sound architectural design and production-quality implementations, reflecting my engineering approach and development practices.
+The repositories here showcase representative projects with sound architecture and production-quality implementations, reflecting my engineering approach and development practices.
 
 ## ⭐ Featured Projects
 - iOS Fitness App Architecture
 - SwiftUI Firebase Auth MVVM
 - Clean Architecture Template
 
-I’m passionate about building scalable, high-quality mobile systems that enhance user experience and drive business impact.
+I’m passionate about building scalable, high-quality mobile systems that deliver exceptional user experiences and meaningful business value.
 
 
 <!--
